@@ -1,3 +1,3 @@
 function CashRegister(){
-
+var bigrat
 }
